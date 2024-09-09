@@ -2,7 +2,7 @@
 using namespace std;
 #include<queue>
 
-// Make class for tree
+// Make class for tree dataStructure
 class Node{
   public:
     int data;
